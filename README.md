@@ -4,6 +4,10 @@ Okay, we've all been there.While, Reading a novel, Listening to dialogues from o
 One of the first simple apps I created while on my journey to learn flutter.
 
 
+##### Download APK
+<pre><a href="https://github.com/ishandeveloper/Dictionary-App/raw/master/app.apk">https://github.com/ishandeveloper/Dictionary-App/raw/master/app.apk</a></pre>
+
+
 ##### Demo
 
   <img src="https://github.com/ishandeveloper/Dictionary-App/blob/master/screenshots/demo.gif?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Dictionary-App/blob/master/screenshots/cat.jpg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ishandeveloper/Dictionary-App/blob/master/screenshots/about.jpg?raw=false" width="30%">

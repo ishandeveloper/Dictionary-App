@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Dictionary',
       theme: ThemeData(
-        primarySwatch: Colors.red
+        primarySwatch: Colors.blueGrey
       ),
       home: Homepage(),
     );

@@ -1,5 +1,5 @@
 ### Dictionary App
-Okay, we've all been there.While, Reading a novel, Listening to dialouges from our favourite movies or maybe just recieved something while chatting with your friends and confused about the meaning of a word? Try this app and help yourself out ;)
+Okay, we've all been there.While, Reading a novel, Listening to dialogues from our favourite movies or maybe just recieved something while chatting with your friends and confused about the meaning of a word? Try this app and help yourself out ;)
 
 One of the first simple apps I created while on my journey to learn flutter.
 
